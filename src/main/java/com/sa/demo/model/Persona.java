@@ -25,4 +25,5 @@ public class Persona {
     private String telefono;
     private String direccion;
     private Integer numDireccion;
+    private Integer codigoPostal;
 }
